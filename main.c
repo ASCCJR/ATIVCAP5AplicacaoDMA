@@ -8,7 +8,7 @@
 #include "hardware/adc.h"
 #include "hardware/dma.h"
 
-// Sua biblioteca para o display SSD1306
+// Biblioteca padrão para o display SSD1306 de acordo com o código original
 #include "inc/ssd1306.h"
 
 // --- Configurações do Display e I2C ---
